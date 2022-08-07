@@ -26,5 +26,7 @@
 
 - :telescope: Web Sitemiz: [PwnLab.Me](https://pwnlab.me)
 
+- :telescope: CTF Platformumuz: [PwnLab.Me CTF](https://ctf.pwnlab.me)
+
 - :mailbox: Bizimle İletişime Geçin! [info@pwnlab.me](mailto:info@pwnlab.me)
 
