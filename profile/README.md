@@ -12,7 +12,7 @@
   <a href="https://discord.gg/GYzrXcGTbr">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://t.me/CyberSec_TR">
+  <a href="https://t.me/hackcoderepeat">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://www.instagram.com/pwnlab.me/">
